@@ -1,0 +1,20 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\bin\Debug\net8.0-windows\Wpf Project.exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\bin\Debug\net8.0-windows\Wpf Project.deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\bin\Debug\net8.0-windows\Wpf Project.runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\bin\Debug\net8.0-windows\Wpf Project.dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\bin\Debug\net8.0-windows\Wpf Project.pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\App.g.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project_MarkupCompile.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.g.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\refint\Wpf Project.dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\Wpf Project.genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\Wpf Project\Wpf Project\obj\Debug\net8.0-windows\ref\Wpf Project.dll
